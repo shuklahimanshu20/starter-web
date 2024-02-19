@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <name>Himanshu Shukla
 
 # TECHNOLOGY COLOPHON
 
