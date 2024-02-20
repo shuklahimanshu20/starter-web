@@ -13,3 +13,6 @@ iam the king of this plce and will learn devops soon
 ## Move to DSA
 
 DSA should be known
+
+## The new topic is about to add with Rebase
+there is something new with new topic of rebase
