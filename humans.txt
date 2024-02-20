@@ -16,4 +16,4 @@ Thanks every one
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    Apache Tomcat, DevOps Tools
