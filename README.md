@@ -13,3 +13,6 @@ iam the king of this plce and will learn devops soon
 ## Move to DSA
 
 DSA should be known
+
+## Adding GiT Rebase project
+GIT rebase topic has been added
