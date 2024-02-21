@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon 
 Hii this is modification of file before rebase
 changes for third time for merge and rebase conflicts
+adding notes on GIT stash
 
 # TEAM
 

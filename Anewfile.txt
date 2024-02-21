@@ -1,0 +1,2 @@
+## Git stash is new topic and little confusing	
+git stash us very important also
