@@ -17,3 +17,6 @@ DSA should be known
 
 ## Adding GiT Rebase project
 GIT rebase topic has been added
+
+## Git Stash
+will save the changes without commit
