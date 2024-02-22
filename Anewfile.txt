@@ -1,2 +1,5 @@
 ## Git stash is new topic and little confusing	
 git stash us very important also
+
+
+Git Stash file changes saved to new branch 

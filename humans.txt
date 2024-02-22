@@ -18,3 +18,4 @@ Thanks every one
 
     HTML5, CSS3
     Apache Tomcat, DevOps Tools
+	Machine Learning, Aws Solution Architect
